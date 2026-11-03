@@ -5,7 +5,7 @@ Proyecto realizado para la Práctica 3 de Control de Versiones y Flujos de Traba
 
 ## Descripción
 
-Página web sobre jornadas de informática creada por Alejandro.
+Página web sobre jornadas de informática creada por Alejandro y Mario.
 
 ## Tecnologías
 
