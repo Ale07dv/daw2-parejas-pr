@@ -5,7 +5,7 @@ Proyecto realizado para la Práctica 3 de Control de Versiones y Flujos de Traba
 
 ## Descripción
 
-Página web de unas jornadas de informática, desarrollada en equipo utilizando Git y GitHub.
+Página web sobre jornadas de informática creada por Alejandro.
 
 ## Tecnologías
 
