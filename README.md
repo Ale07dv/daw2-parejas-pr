@@ -16,9 +16,16 @@ Página web sobre jornadas de informática creada por Alejandro y Mario.
 
 ## Equipo
 
-- Alejandro Ruiz Martínez
-- Mario Jurado de la Mota
+### Alejandro Ruiz Martínez
+- Página de inicio (Issue #1).
+- Página de programa (Issue #2).
+
+### Mario Jurado de la Mota
+- Página de inscripción (Issue #3).
+- Hoja de estilos común (Issue #4).
 
 ## Organización
 
-El proyecto se desarrolla utilizando ramas, issues y Pull Requests.
+El proyecto se ha desarrollado utilizando ramas, issues y Pull Requests.
+
+Hemos realizado revisiones de código, utilizado diferentes métodos de fusión y resuelto un conflicto en el README.
